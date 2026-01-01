@@ -1,0 +1,44 @@
+﻿namespace DrinksInfo.TerrenceLGee.Tests.JsonResponses;
+
+public static class CategoryResponse
+{
+    public static string GetCategoriesResponse => """
+                {
+            "drinks": [
+                {
+                    "strCategory": "Beer"
+                },
+                {
+                    "strCategory": "Cocktail"
+                },
+                {
+                    "strCategory": "Cocoa"
+                },
+                {
+                    "strCategory": "Coffee / Tea"
+                },
+                {
+                    "strCategory": "Homemade Liqueur"
+                },
+                {
+                    "strCategory": "Ordinary Drink"
+                },
+                {
+                    "strCategory": "Other / Unknown"
+                },
+                {
+                    "strCategory": "Punch / Party Drink"
+                },
+                {
+                    "strCategory": "Shake"
+                },
+                {
+                    "strCategory": "Shot"
+                },
+                {
+                    "strCategory": "Soft Drink"
+                }
+            ]
+        }
+        """;
+}

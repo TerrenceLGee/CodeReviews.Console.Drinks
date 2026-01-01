@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DrinksInfo.TerrenceLGee.Tests/DrinksInfo.TerrenceLGee.Tests.csproj" Id="32c98f36-5c4c-424d-b51d-f01a5b50689c" />
+  <Project Path="DrinksInfo.TerrenceLGee/DrinksInfo.TerrenceLGee.csproj" />
+</Solution>
